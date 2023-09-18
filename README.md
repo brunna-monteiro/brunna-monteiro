@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on improvements for [MigraMinds app](https://migramind-3327e7056e72.herokuapp.com/)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Typescript && React**
 
 - 💬 You can ask me about **anything related to Ruby on Rails/JavaScript/CSS**
 
