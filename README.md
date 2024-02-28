@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Brunna 🙃</h1>
 <h3 align="center">Fullstack Newbie Extraordinaire: Unleashing Code Magic!</h3>
 
-- 🔭 I’m currently working on improvements for [MigraMinds app](https://migramind-3327e7056e72.herokuapp.com/)
+- 🔭 I'm working on an full featured e-commerce platform.
 
 - 🌱 I’m currently learning **React && Express**
 
