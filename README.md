@@ -3,9 +3,9 @@
 
 - 🔭 I'm working on an full featured e-commerce platform.
 
-- 🌱 I’m currently learning **Kotlin && Java**
+- 🌱 I’m currently learning **GO**
 
-- 💬 You can ask me about **Ruby on Rails/JavaScript/CSS/Express/React**
+- 💬 You can ask me about **Ruby on Rails/JavaScript/CSS/React**
 
 - 📫 How to reach me **brunna.dev@gmail.com**
 
