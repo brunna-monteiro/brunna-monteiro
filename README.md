@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Brunna 🙃</h1>
 <h3 align="center">Fullstack Newbie Extraordinaire: Unleashing Code Magic!</h3>
 
-- 🔭 I'm working on an full featured e-commerce platform.
+- 🔭 I'm working on a native tracker campaign app: JawsOfTheLion.
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently learning more about **React Native**
 
 - 💬 You can ask me about **Ruby on Rails/JavaScript/CSS/React**
 
